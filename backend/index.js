@@ -15,7 +15,7 @@ const app = express()
 app.use(cookieParser())
 app.use(express.json())
 app.use(cors({//connnects frontend and backend middleware 
-   origin:"http://localhost:5173",
+   origin:"https://ytube-frontend.onrender.com",
    credentials:true
 }))
 
