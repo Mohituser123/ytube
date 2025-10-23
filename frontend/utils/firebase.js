@@ -6,11 +6,11 @@ import {getAuth, GoogleAuthProvider} from "firebase/auth"
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_APIKEY,
-  authDomain: "auth-6c33c.firebaseapp.com",
-  projectId: "auth-6c33c",
-  storageBucket: "auth-6c33c.firebasestorage.app",
-  messagingSenderId: "982579695538",
-  appId: "1:982579695538:web:e997c944792f135d10deab"
+  authDomain: "ytube-clone-f74bc.firebaseapp.com",
+  projectId: "ytube-clone-f74bc",
+  storageBucket: "ytube-clone-f74bc.firebasestorage.app",
+  messagingSenderId: "978088294555",
+  appId: "1:978088294555:web:25a1819ee6199b265cae3e"
 };
 
 // Initialize Firebase
